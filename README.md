@@ -1,4 +1,4 @@
-## Hi, I am Bianca Bringel 👋
+## Hi, I am Bianca 👋
 
 - 🌱 I’m currently learning front-end development!
 - 📫 How to reach me: <a href="www.linkedin.com/in/bianca-bringel">Linkedin</a>
