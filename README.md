@@ -1,5 +1,6 @@
-## Hi, I am Bianca 👋
+## 
 
+- 👋 Hi, I'm Bianca 
 - 🌱 I’m currently learning front-end development!
 - 📫 How to reach me: <a href="http://www.linkedin.com/in/bianca-bringel">Linkedin</a>
  
@@ -12,7 +13,6 @@
 </div>
   
   <br/>
-  
   
 <div style="display: inline_block">
   <a href="https://github.com/bbringel">
