@@ -1,7 +1,7 @@
 ## 
 
 - 👋 Hi, I'm Bianca 
-- 🌱 I’m currently learning front-end development!
+- 🌱 I’m currently learning web development!
 - 📫 How to reach me: <a href="http://www.linkedin.com/in/bianca-bringel">Linkedin</a>
  
 ## 🛠 &nbsp;Tech Stack
