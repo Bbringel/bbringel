@@ -1,10 +1,9 @@
 ## 
 
-- 👋 Hi, I'm Bianca 
-- 🌱 I’m currently learning web development!
-- 📫 How to reach me: <a href="http://www.linkedin.com/in/bianca-bringel">Linkedin</a>
+- 👋 Hi, I'm Bianca.
+- 🌱 I’m currently enrolled in the Web Development & Internet Applications program at Algonquin College.
  
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; I'm learning:
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
