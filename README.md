@@ -1,7 +1,7 @@
 ## 
 
 - 👋 Hi, I'm Bianca.
-- 🌱 I’m currently enrolled in the Web Development & Internet Applications program at Algonquin College.
+- 🌱 I’m learning Web Development!
  
 ## 🛠 &nbsp; I'm learning:
 <div style="display: inline_block">
